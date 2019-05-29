@@ -1,0 +1,28 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\Kursova.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2005\Projects\Kursova\Kursova\obj\Debug\Kursova.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.Cache
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.pdb
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.Form1.resources
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.Form2.resources
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.Cache
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Documents and Settings\Александр\Рабочий стол\Kursova\Kursova\Kursova\obj\Debug\Kursova.Form3.resources
